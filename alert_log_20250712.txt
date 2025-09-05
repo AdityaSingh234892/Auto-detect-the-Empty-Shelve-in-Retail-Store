@@ -1,0 +1,2256 @@
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:18:33
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ❌ Histogram: 0%
+📈 Technical Details:
+  • edge_density: 0.27
+  • pixel_variance: 3731.20
+  • hist_spread: 10.952478408813477
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks 2
+⏰ Time: 16:18:33
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ❌ Histogram: 0%
+📈 Technical Details:
+  • edge_density: 0.26
+  • pixel_variance: 2752.64
+  • hist_spread: 48.468563079833984
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:24:26
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 63.89
+  • hist_spread: 458.1613464355469
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:24:29
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 42.32
+  • hist_spread: 459.55877685546875
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:24:34
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 69.10
+  • hist_spread: 453.6315612792969
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:24:50
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 43.10
+  • hist_spread: 469.3617248535156
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:24:53
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 68.20
+  • hist_spread: 448.37384033203125
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:10
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 45.10
+  • hist_spread: 457.9564208984375
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:13
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 44.15
+  • hist_spread: 457.4239807128906
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:16
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 39.50
+  • hist_spread: 466.9765930175781
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:44
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 69.12
+  • hist_spread: 454.8385009765625
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:47
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 66.54
+  • hist_spread: 457.5627136230469
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:50
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 40.03
+  • hist_spread: 470.03912353515625
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:53
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 42.15
+  • hist_spread: 459.4031982421875
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:56
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 41.66
+  • hist_spread: 465.7016906738281
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:25:58
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 168.45
+  • hist_spread: 500.7677001953125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:25:59
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 42.63
+  • hist_spread: 461.703125
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:01
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 172.15
+  • hist_spread: 496.8421325683594
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:02
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 42.72
+  • hist_spread: 460.2019348144531
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:04
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 169.90
+  • hist_spread: 497.9053039550781
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:05
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 66.37
+  • hist_spread: 454.13818359375
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:07
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 129.69
+  • hist_spread: 496.18621826171875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:08
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.04
+  • pixel_variance: 1790.63
+  • hist_spread: 354.6191101074219
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:10
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 179.23
+  • hist_spread: 503.4487609863281
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:11
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.04
+  • pixel_variance: 2868.18
+  • hist_spread: 398.1011962890625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:13
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 129.32
+  • hist_spread: 507.4632873535156
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:14
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 44.66
+  • hist_spread: 478.5646667480469
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:16
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 126.82
+  • hist_spread: 512.2627563476562
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 40.78
+  • hist_spread: 481.9361877441406
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:19
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 565.78
+  • hist_spread: 195.42755126953125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:20
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 429.24
+  • hist_spread: 108.90743255615234
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:22
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 716.25
+  • hist_spread: 125.20614624023438
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:23
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 431.23
+  • hist_spread: 105.23526763916016
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:25
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 667.37
+  • hist_spread: 166.305908203125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:26
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 116.23
+  • hist_spread: 362.7180480957031
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:28
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 371.87
+  • hist_spread: 328.50164794921875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:29
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 2734.21
+  • hist_spread: 247.54591369628906
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:31
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 425.81
+  • hist_spread: 330.8645324707031
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:32
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 161.51
+  • hist_spread: 348.1644592285156
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:34
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 247.61
+  • hist_spread: 412.0548095703125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:36
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 5631.98
+  • hist_spread: 215.78550720214844
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:37
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 2584.02
+  • hist_spread: 389.1205749511719
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:39
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 5542.83
+  • hist_spread: 186.75376892089844
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:40
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 1418.35
+  • hist_spread: 399.35247802734375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:42
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 1309.23
+  • hist_spread: 359.62200927734375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:43
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 281.89
+  • hist_spread: 439.0352783203125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:45
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 7331.80
+  • hist_spread: 127.47254943847656
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:46
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 278.83
+  • hist_spread: 436.7446594238281
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:48
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 6477.73
+  • hist_spread: 155.35226440429688
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:49
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 276.47
+  • hist_spread: 441.4085388183594
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:51
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 7389.78
+  • hist_spread: 159.9660186767578
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:52
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 275.98
+  • hist_spread: 440.2084045410156
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:54
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 7874.05
+  • hist_spread: 225.52073669433594
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:55
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 277.30
+  • hist_spread: 441.2420959472656
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:26:57
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 6920.44
+  • hist_spread: 148.2033233642578
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:26:58
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 4436.68
+  • hist_spread: 268.6753845214844
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:00
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 6364.45
+  • hist_spread: 176.48817443847656
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:02
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 262.25
+  • hist_spread: 436.69158935546875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:03
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 8659.91
+  • hist_spread: 239.96078491210938
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:05
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 251.08
+  • hist_spread: 458.1295166015625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:06
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 8142.27
+  • hist_spread: 132.26290893554688
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:08
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 253.15
+  • hist_spread: 455.18951416015625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:09
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 7875.60
+  • hist_spread: 86.97283172607422
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:11
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 255.77
+  • hist_spread: 454.6981201171875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:12
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 78.83
+  • hist_spread: 405.3638000488281
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:14
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 193.84
+  • hist_spread: 462.2749938964844
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:15
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 6381.17
+  • hist_spread: 177.18817138671875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 246.33
+  • hist_spread: 459.44384765625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:18
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 10020.88
+  • hist_spread: 315.7267761230469
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:20
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 254.69
+  • hist_spread: 459.0293884277344
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:21
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 8506.08
+  • hist_spread: 158.09442138671875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:23
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 196.03
+  • hist_spread: 460.70709228515625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:24
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.04
+  • pixel_variance: 7516.61
+  • hist_spread: 89.0299301147461
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:26
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 196.76
+  • hist_spread: 463.95404052734375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:27
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.04
+  • pixel_variance: 8056.25
+  • hist_spread: 116.72413635253906
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:29
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 195.01
+  • hist_spread: 459.74017333984375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:31
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 8172.93
+  • hist_spread: 142.62261962890625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:32
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 3766.95
+  • hist_spread: 270.16162109375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:34
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 114.67
+  • hist_spread: 400.0271301269531
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:37
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 196.47
+  • hist_spread: 462.44024658203125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:37
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 81.35
+  • hist_spread: 401.6788330078125
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:40
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 4644.25
+  • hist_spread: 238.46116638183594
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:40
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 4523.30
+  • hist_spread: 256.6820068359375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:43
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 3273.53
+  • hist_spread: 341.1518859863281
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:43
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 7144.42
+  • hist_spread: 160.6137237548828
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:46
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 4640.64
+  • hist_spread: 303.0545349121094
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:47
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 6825.22
+  • hist_spread: 174.53956604003906
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:50
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 246.24
+  • hist_spread: 465.29339599609375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:50
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 115.89
+  • hist_spread: 394.7406311035156
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:53
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 249.13
+  • hist_spread: 453.62237548828125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:53
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 111.45
+  • hist_spread: 392.36175537109375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:56
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 5998.84
+  • hist_spread: 375.0364990234375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:56
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.08
+  • pixel_variance: 7365.79
+  • hist_spread: 152.12908935546875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:27:59
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 195.44
+  • hist_spread: 486.8334045410156
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:27:59
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 8016.64
+  • hist_spread: 146.7171173095703
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:02
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 408.16
+  • hist_spread: 484.41455078125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:02
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.07
+  • pixel_variance: 6379.13
+  • hist_spread: 251.75250244140625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:05
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 191.89
+  • hist_spread: 488.9416809082031
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:05
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.06
+  • pixel_variance: 6839.19
+  • hist_spread: 246.96188354492188
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:08
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 144.29
+  • hist_spread: 485.12310791015625
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:08
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 51.43
+  • hist_spread: 458.3042297363281
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:11
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 192.82
+  • hist_spread: 482.1799621582031
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:11
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 77.05
+  • hist_spread: 440.8316650390625
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:14
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 192.43
+  • hist_spread: 487.19305419921875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:14
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 77.98
+  • hist_spread: 446.52532958984375
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 194.30
+  • hist_spread: 481.74139404296875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 78.47
+  • hist_spread: 443.52301025390625
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:20
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 191.85
+  • hist_spread: 487.3014221191406
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:20
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 75.78
+  • hist_spread: 449.7193603515625
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:23
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 194.07
+  • hist_spread: 484.3536376953125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:23
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 78.85
+  • hist_spread: 447.1885070800781
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:45
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 678.82
+  • hist_spread: 152.0712127685547
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:45
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 412.68
+  • hist_spread: 140.26971435546875
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:48
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 604.25
+  • hist_spread: 183.10513305664062
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:48
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 7701.38
+  • hist_spread: 132.9691925048828
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:51
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 414.26
+  • hist_spread: 342.0414733886719
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:51
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 7039.35
+  • hist_spread: 204.80320739746094
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:28:54
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.02
+  • pixel_variance: 363.62
+  • hist_spread: 379.3175964355469
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:28:54
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 190.91
+  • hist_spread: 322.2192077636719
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:06
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 52.32
+  • hist_spread: 446.3216552734375
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:14
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 82.05
+  • hist_spread: 434.8089294433594
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 53.60
+  • hist_spread: 450.6197204589844
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:20
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 53.84
+  • hist_spread: 450.8515319824219
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:23
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 53.36
+  • hist_spread: 450.57147216796875
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:37
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 78.20
+  • hist_spread: 446.6692199707031
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:40
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 52.63
+  • hist_spread: 458.4860534667969
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:43
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 53.06
+  • hist_spread: 443.0173034667969
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:46
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 82.17
+  • hist_spread: 443.20635986328125
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:29:49
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 55.29
+  • hist_spread: 453.0838623046875
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:02
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 82.43
+  • hist_spread: 443.0243225097656
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:05
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 53.63
+  • hist_spread: 454.92755126953125
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:30:08
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 156.76
+  • hist_spread: 476.9490661621094
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:09
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 78.76
+  • hist_spread: 458.0640563964844
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:30:11
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 160.66
+  • hist_spread: 479.75433349609375
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:12
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.03
+  • pixel_variance: 3471.26
+  • hist_spread: 241.7119903564453
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:30:14
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 157.79
+  • hist_spread: 481.3996887207031
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:15
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 80.63
+  • hist_spread: 447.5479431152344
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 16:30:17
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.01
+  • pixel_variance: 155.24
+  • hist_spread: 476.88995361328125
+  • fullness_score: 0.67
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:18
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 80.88
+  • hist_spread: 446.5937194824219
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:21
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 80.39
+  • hist_spread: 445.5317687988281
+  • fullness_score: 0.33
+
+==================================================
+🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks2
+⏰ Time: 16:30:31
+🎯 Confidence: 33%
+📊 Stability: 4/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ❌ Variance: 0%
+  ✅ Histogram: 100%
+📈 Technical Details:
+  • edge_density: 0.00
+  • pixel_variance: 52.12
+  • hist_spread: 458.8470458984375
+  • fullness_score: 0.33
+
+==================================================

@@ -1,0 +1,248 @@
+Shelf Monitoring Alert Log
+==================================================
+
+Time: 2025-07-12 03:27:21.743304
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:21.781852
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:21.863286
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.40
+------------------------------
+Time: 2025-07-12 03:27:22.529372
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:24.836781
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:24.873631
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:25.125859
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.37
+------------------------------
+Time: 2025-07-12 03:27:25.749635
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:26.652052
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:27.931464
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.54
+------------------------------
+Time: 2025-07-12 03:27:27.971502
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:28.350715
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:28.934395
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:29.261988
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:30.237771
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:30.563804
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:31.115835
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:31.147375
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:31.350722
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:31.534866
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.52
+------------------------------
+Time: 2025-07-12 03:27:34.016153
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:34.208894
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.57
+------------------------------
+Time: 2025-07-12 03:27:34.273008
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:34.480378
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:37.294747
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.38
+------------------------------
+Time: 2025-07-12 03:27:37.347296
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:37.391401
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------
+Time: 2025-07-12 03:27:37.603643
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.37
+------------------------------
+Time: 2025-07-12 03:27:38.841837
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:39.180439
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:39.613741
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:39.945707
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:40.481399
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:40.585025
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.52
+------------------------------
+Time: 2025-07-12 03:27:40.973143
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:43.186419
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.52
+------------------------------
+Time: 2025-07-12 03:27:43.641419
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.55
+------------------------------
+Time: 2025-07-12 03:27:43.681462
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:43.755060
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.51
+------------------------------
+Time: 2025-07-12 03:27:44.157784
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:46.575993
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.42
+------------------------------
+Time: 2025-07-12 03:27:46.826155
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.56
+------------------------------
+Time: 2025-07-12 03:27:46.929104
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.52
+------------------------------
+Time: 2025-07-12 03:27:47.318250
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.48
+------------------------------
+Time: 2025-07-12 03:27:49.223410
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:49.846434
+Section: cereals
+Message: Refill Cereals Section
+Confidence: 0.50
+------------------------------
+Time: 2025-07-12 03:27:49.928535
+Section: bread
+Message: Refill Bread Section
+Confidence: 0.56
+------------------------------
+Time: 2025-07-12 03:27:50.185837
+Section: snacks
+Message: Refill Snacks Section
+Confidence: 0.52
+------------------------------
+Time: 2025-07-12 03:27:50.421178
+Section: milk
+Message: Refill Milk Section
+Confidence: 0.49
+------------------------------

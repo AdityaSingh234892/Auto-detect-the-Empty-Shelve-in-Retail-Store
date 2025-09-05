@@ -1,0 +1,32 @@
+2025-07-12T03:58:51.953529 - 🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: bread
+⏰ Time: 03:58:51
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ❌ Histogram: 0%
+📈 Technical Details:
+  • edge_density: 0.12
+  • pixel_variance: 3722.39
+  • hist_spread: 46.273536682128906
+  • fullness_score: 0.33
+
+--------------------------------------------------
+2025-07-12T03:58:51.954499 - 🚨 SHELF EMPTY ALERT 🚨
+📦 Shelf: snacks
+⏰ Time: 03:58:51
+🎯 Confidence: 33%
+📊 Stability: 0/5
+🔍 Detection Methods:
+  ❌ Edges: 0%
+  ✅ Variance: 100%
+  ❌ Histogram: 0%
+📈 Technical Details:
+  • edge_density: 0.31
+  • pixel_variance: 2241.96
+  • hist_spread: 44.84363555908203
+  • fullness_score: 0.33
+
+--------------------------------------------------

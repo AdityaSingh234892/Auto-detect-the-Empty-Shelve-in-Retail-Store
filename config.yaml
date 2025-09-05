@@ -1,0 +1,63 @@
+# Configuration file for shelf monitoring system
+video:
+  source: 0  # Use 0 for webcam, or path to video file
+  width: 1280
+  height: 720
+  fps: 30
+
+# Shelf sections configuration
+shelf_sections:
+  # Define regions for different product types
+  # Format: [x, y, width, height, product_name]
+  bread:
+    region: [100, 150, 200, 100]  # x, y, width, height
+    threshold: 0.3  # Threshold for empty detection (0-1)
+    color: [0, 255, 0]  # Green color for visualization
+  
+  milk:
+    region: [350, 150, 200, 100]
+    threshold: 0.3
+    color: [255, 0, 0]  # Blue color for visualization
+  
+  cereals:
+    region: [600, 150, 200, 100]
+    threshold: 0.3
+    color: [0, 0, 255]  # Red color for visualization
+  
+  snacks:
+    region: [100, 300, 200, 100]
+    threshold: 0.3
+    color: [255, 255, 0]  # Cyan color for visualization
+
+# Detection parameters
+detection:
+  # Edge detection parameters
+  canny_low: 50
+  canny_high: 150
+  
+  # Contour detection
+  min_contour_area: 1000
+  max_contour_area: 50000
+  
+  # Empty shelf detection
+  empty_threshold: 0.7  # Percentage of empty pixels to consider shelf empty
+  
+  # YOLO model settings
+  yolo_model: "yolov8n.pt"  # Pre-trained YOLO model
+  confidence_threshold: 0.5
+  
+# Alert settings
+alerts:
+  display_duration: 3000  # milliseconds
+  sound_enabled: true
+  sound_file: "alert.wav"  # Optional sound file
+  log_enabled: true
+  log_file: "shelf_alerts.log"
+
+# Visual settings
+display:
+  show_regions: true
+  show_contours: true
+  alert_text_size: 1.0
+  alert_text_color: [0, 0, 255]  # Red
+  alert_text_thickness: 2
