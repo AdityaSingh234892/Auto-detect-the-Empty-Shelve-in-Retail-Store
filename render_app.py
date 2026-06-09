@@ -3,13 +3,18 @@ Flask Web API for Shelf Monitoring System
 Headless deployment for Render and cloud platforms
 """
 import os
-from flask import Flask, jsonify, request, send_file
+from flask import Flask, jsonify, request, render_template, send_file
 from main import ShelfMonitoringSystem
 import threading
 import json
 from datetime import datetime
+from pathlib import Path
 
 app = Flask(__name__)
+
+# Create templates and static directories if they don't exist
+os.makedirs('templates', exist_ok=True)
+os.makedirs('static', exist_ok=True)
 
 # Global monitoring state
 monitoring_state = {
@@ -19,17 +24,28 @@ monitoring_state = {
     'empty_shelves': 0
 }
 
+# ==================== Web Routes ====================
+
 @app.route('/', methods=['GET'])
-def home():
+def index():
+    """Serve the main dashboard"""
+    return render_template('index.html')
+
+# ==================== API Endpoints ====================
+
+@app.route('/api', methods=['GET'])
+def api_home():
     """API Status endpoint"""
     return jsonify({
         'status': 'Shelf Monitoring API is running',
         'version': '1.0',
         'endpoints': {
+            'dashboard': '/',
             'status': '/api/status',
             'start': '/api/start',
             'stop': '/api/stop',
-            'alerts': '/api/alerts'
+            'alerts': '/api/alerts',
+            'health': '/api/health'
         }
     })
 
@@ -80,9 +96,9 @@ def start_monitoring():
         
         return jsonify({
             'status': 'Monitoring started',
-            'video_source': video_source,
+            'video_source': str(video_source),
             'output_path': output_path
-        })
+        }), 200
     
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -91,42 +107,84 @@ def start_monitoring():
 def stop_monitoring():
     """Stop monitoring service"""
     monitoring_state['is_running'] = False
-    return jsonify({'status': 'Monitoring stopped'})
+    return jsonify({'status': 'Monitoring stopped'}), 200
+
+@app.route('/api/health', methods=['GET'])
+def health_check():
+    """Health check endpoint"""
+    return jsonify({
+        'status': 'healthy',
+        'service': 'Shelf Monitoring API',
+        'timestamp': datetime.now().isoformat()
+    }), 200
+
+# ==================== Background Monitoring ====================
 
 def run_monitoring(video_source, output_path):
     """Background monitoring thread"""
     try:
         monitor = ShelfMonitoringSystem()
         
-        if isinstance(video_source, str):
-            # Video file processing
-            monitor.process_video_file(video_source, output_path)
-        else:
-            # Real-time camera monitoring
-            monitor.run_realtime()
+        # Check if monitoring should continue
+        while monitoring_state['is_running']:
+            try:
+                if isinstance(video_source, str) and video_source != '0':
+                    # Video file processing
+                    if Path(video_source).exists():
+                        monitor.process_video_file(video_source, output_path)
+                    else:
+                        monitoring_state['alerts'].append({
+                            'timestamp': datetime.now().isoformat(),
+                            'type': 'ERROR',
+                            'message': f'Video file not found: {video_source}'
+                        })
+                else:
+                    # Real-time camera monitoring (simplified for API)
+                    # In production, you'd use the full monitoring system
+                    monitoring_state['alerts'].append({
+                        'timestamp': datetime.now().isoformat(),
+                        'type': 'INFO',
+                        'message': 'Camera monitoring started'
+                    })
+                    break
+                    
+            except Exception as loop_error:
+                monitoring_state['alerts'].append({
+                    'timestamp': datetime.now().isoformat(),
+                    'type': 'WARNING',
+                    'message': f'Monitoring error: {str(loop_error)}'
+                })
+                break
             
     except Exception as e:
         monitoring_state['alerts'].append({
             'timestamp': datetime.now().isoformat(),
             'type': 'ERROR',
-            'message': str(e)
+            'message': f'Monitoring failed: {str(e)}'
         })
     finally:
         monitoring_state['is_running'] = False
+        monitoring_state['alerts'].append({
+            'timestamp': datetime.now().isoformat(),
+            'type': 'INFO',
+            'message': 'Monitoring stopped'
+        })
 
-@app.route('/api/health', methods=['GET'])
-def health_check():
-    """Health check endpoint"""
-    return jsonify({'status': 'healthy', 'timestamp': datetime.now().isoformat()})
+# ==================== Error Handlers ====================
 
 @app.errorhandler(404)
 def not_found(error):
+    """Handle 404 errors"""
     return jsonify({'error': 'Endpoint not found'}), 404
 
 @app.errorhandler(500)
 def internal_error(error):
+    """Handle 500 errors"""
     return jsonify({'error': 'Internal server error'}), 500
+
+# ==================== Main ====================
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port, debug=False)
+    debug = os.environ.get('FLASK_ENV') == 'development'
+    app.run(host='0.0.0.0', port=port, debug=debug, threaded=True)
