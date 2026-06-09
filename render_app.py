@@ -3,6 +3,11 @@ Flask Web API for Shelf Monitoring System
 Headless deployment for Render and cloud platforms
 """
 import os
+import sys
+
+# Fix YOLO config directory for Render
+os.environ['YOLO_CONFIG_DIR'] = '/tmp/ultralytics'
+
 from flask import Flask, jsonify, request, render_template, send_file
 from main import ShelfMonitoringSystem
 import threading
@@ -39,6 +44,7 @@ def api_home():
     return jsonify({
         'status': 'Shelf Monitoring API is running',
         'version': '1.0',
+        'environment': 'Render Cloud',
         'endpoints': {
             'dashboard': '/',
             'status': '/api/status',
@@ -79,7 +85,7 @@ def start_monitoring():
         # Get video source from request
         data = request.get_json() or {}
         video_source = data.get('video_source', 0)  # Default: camera
-        output_path = data.get('output_path', 'monitored_output.mp4')
+        output_path = data.get('output_path', '/tmp/monitored_output.mp4')  # Use /tmp for Render
         
         # Start monitoring in background thread
         monitoring_state['is_running'] = True
@@ -97,17 +103,22 @@ def start_monitoring():
         return jsonify({
             'status': 'Monitoring started',
             'video_source': str(video_source),
-            'output_path': output_path
+            'output_path': output_path,
+            'timestamp': datetime.now().isoformat()
         }), 200
     
     except Exception as e:
+        monitoring_state['is_running'] = False
         return jsonify({'error': str(e)}), 500
 
 @app.route('/api/stop', methods=['POST'])
 def stop_monitoring():
     """Stop monitoring service"""
     monitoring_state['is_running'] = False
-    return jsonify({'status': 'Monitoring stopped'}), 200
+    return jsonify({
+        'status': 'Monitoring stopped',
+        'timestamp': datetime.now().isoformat()
+    }), 200
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
@@ -115,6 +126,8 @@ def health_check():
     return jsonify({
         'status': 'healthy',
         'service': 'Shelf Monitoring API',
+        'version': '1.0',
+        'environment': 'Render Cloud',
         'timestamp': datetime.now().isoformat()
     }), 200
 
@@ -123,6 +136,13 @@ def health_check():
 def run_monitoring(video_source, output_path):
     """Background monitoring thread"""
     try:
+        # Add alert about monitoring start
+        monitoring_state['alerts'].append({
+            'timestamp': datetime.now().isoformat(),
+            'type': 'INFO',
+            'message': f'Starting monitoring from source: {video_source}'
+        })
+        
         monitor = ShelfMonitoringSystem()
         
         # Check if monitoring should continue
@@ -132,6 +152,11 @@ def run_monitoring(video_source, output_path):
                     # Video file processing
                     if Path(video_source).exists():
                         monitor.process_video_file(video_source, output_path)
+                        monitoring_state['alerts'].append({
+                            'timestamp': datetime.now().isoformat(),
+                            'type': 'SUCCESS',
+                            'message': f'Video processing completed: {output_path}'
+                        })
                     else:
                         monitoring_state['alerts'].append({
                             'timestamp': datetime.now().isoformat(),
@@ -139,12 +164,11 @@ def run_monitoring(video_source, output_path):
                             'message': f'Video file not found: {video_source}'
                         })
                 else:
-                    # Real-time camera monitoring (simplified for API)
-                    # In production, you'd use the full monitoring system
+                    # Real-time camera monitoring
                     monitoring_state['alerts'].append({
                         'timestamp': datetime.now().isoformat(),
                         'type': 'INFO',
-                        'message': 'Camera monitoring started'
+                        'message': 'Camera monitoring mode (limited in cloud)'
                     })
                     break
                     
@@ -167,7 +191,7 @@ def run_monitoring(video_source, output_path):
         monitoring_state['alerts'].append({
             'timestamp': datetime.now().isoformat(),
             'type': 'INFO',
-            'message': 'Monitoring stopped'
+            'message': 'Monitoring session ended'
         })
 
 # ==================== Error Handlers ====================
@@ -175,16 +199,23 @@ def run_monitoring(video_source, output_path):
 @app.errorhandler(404)
 def not_found(error):
     """Handle 404 errors"""
-    return jsonify({'error': 'Endpoint not found'}), 404
+    return jsonify({'error': 'Endpoint not found', 'path': request.path}), 404
 
 @app.errorhandler(500)
 def internal_error(error):
     """Handle 500 errors"""
-    return jsonify({'error': 'Internal server error'}), 500
+    return jsonify({'error': 'Internal server error', 'message': str(error)}), 500
+
+@app.before_request
+def log_request():
+    """Log incoming requests"""
+    print(f"[{datetime.now().isoformat()}] {request.method} {request.path}")
 
 # ==================== Main ====================
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     debug = os.environ.get('FLASK_ENV') == 'development'
+    print(f"Starting Flask app on port {port}...")
+    print(f"YOLO_CONFIG_DIR: {os.environ.get('YOLO_CONFIG_DIR', 'default')}")
     app.run(host='0.0.0.0', port=port, debug=debug, threaded=True)
